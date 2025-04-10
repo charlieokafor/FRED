@@ -1,4 +1,4 @@
-#Facial Recognition for Emotion Detection
+# Facial Recognition for Emotion Detection
 A Machine Learning Approach
 Overview
 This project explores the application of machine learning techniques, specifically facial recognition, to detect human emotions from images. The goal is to assess the efficiency of machine learning models in interpreting complex emotional states, with potential applications in healthcare, customer feedback, sales, and autonomous systems.
