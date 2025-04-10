@@ -13,7 +13,7 @@ Includes hyperparameter tuning using GridSearchCV to optimize model performance.
 Evaluates model accuracy and provides a detailed classification report for each emotion.
 
 Results
-Accuracy: 45.28%
+Accuracy: 62.4%
 
 Best-Performing Emotions: Disgust (precision: 1.00, F1-score: 0.56) and Surprise (precision: 0.69, F1-score: 0.63).
 
